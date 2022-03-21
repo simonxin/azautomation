@@ -1,4 +1,4 @@
-#
+# test
 #usage : GetImageState -registry $registry -image_name $image_name -tag $tag -tagdigest $tagdigest
 #usage : ./trackingonimageversion.ps1 -workspacename "somsdemoworkshop" -resourcegroupname "omsdemo" -subscriptionId "0f2daa80-6b16-44ee-8016-4ad888e059ac"
 # optional: Use a search base filter which is lile resource group name or cluster name
